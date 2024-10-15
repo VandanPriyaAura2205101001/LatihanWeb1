@@ -1,2 +1,3 @@
-# LatihanWeb1
-VandanPriyaAura2205101001
+# LatihanModul1
+Nama : VandanPriyaAura
+NIM : 2205101001
